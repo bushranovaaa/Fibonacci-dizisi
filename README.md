@@ -13,7 +13,7 @@ Fibonacci serisi, her bir sayının kendisinden önceki iki sayının toplamı o
 - Bir Java IDE (Eclipse, IntelliJ IDEA, vb.) veya terminal
   
  ## 🛠️ **Kullanım Talimatları**
-##**Kurulum**
+## Kurulum
 
 1. **Bu projeyi bilgisayarınıza klonlayın:**
     ```sh
