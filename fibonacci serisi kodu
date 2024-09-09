@@ -1,0 +1,29 @@
+import java.util.Scanner;
+
+public class Fibonacci {
+    public static void main(String[] args) {
+        // Kullanıcıdan terim sayısını almak için Scanner sınıfı kullanılıyor
+        Scanner scanner = new Scanner(System.in);
+        System.out.print("Fibonacci serisi için terim sayısını giriniz: ");
+        int n = scanner.nextInt(); // Kullanıcının girdiği terim sayısı
+
+        // Fibonacci dizisini saklamak için bir dizi oluşturuluyor
+        int[] fib_series = new int[n];
+
+        // İlk iki terimi belirleme
+        if (n > 0) fib_series[0] = 0;
+        if (n > 1) fib_series[1] = 1;
+
+        // Fibonacci dizisinin geri kalanını hesaplama
+        for (int i = 2; i < n; i++) {
+            fib_series[i] = fib_series[i - 1] + fib_series[i - 2];
+        }
+
+        // Hesaplanan Fibonacci dizisini ekrana yazdırma
+        System.out.print("İlk " + n + " Fibonacci sayısı: ");
+        for (int num : fib_series) {
+            System.out.print(num + " ");
+        }
+        scanner.close(); // Scanner kapatılıyor
+    }
+}
