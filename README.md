@@ -6,7 +6,14 @@
 
 Fibonacci serisi, her bir sayının kendisinden önceki iki sayının toplamı olduğu bir sayı dizisidir. Doğada sıkça karşılaşılan bu seri, matematiğin en güzel örneklerinden biridir! Serinin ilk birkaç sayısı şöyledir:
 
+
+## 🔧 Ön Gereksinimler
+
+- Java Development Kit (JDK) 8 veya üzeri
+- Bir Java IDE (Eclipse, IntelliJ IDEA, vb.) veya terminal
+  
  ## 🛠️ **Kullanım Talimatları**
+##**Kurulum**
 
 1. **Bu projeyi bilgisayarınıza klonlayın:**
     ```sh
