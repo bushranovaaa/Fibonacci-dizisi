@@ -47,6 +47,4 @@ Her sihiri sayı dizisine katkı sağlamak istiyorsanız,projeyi **fork** edin v
 Bu proje MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için LICENSE dosyasına bakın.
 
  ## 📬 İletişim
-Eğer herhangi bir sorunuz varsa, lütfen bana şu e-posta adresinden ulaşın:(kurtbusra956@gmail.com)
- 
-
+Eğer herhangi bir sorunuz varsa, lütfen bana şu e-posta adresinden ulaşın:(kurtbusra956@gmail.com
