@@ -1,73 +1,52 @@
 # 🚀 Fibonacci Serisi - Java Uygulaması 💻
 
-Bu, **Java uygulaması**, matematiksel bir büyüyle **Fibonacci Serisini** oluşturarak sayısal mücizeler yaratır! Kullanıcıdan
+Bu, **Java uygulaması**, matematiksel bir büyüyle **Fibonacci Serisini** oluşturarak sayısal mücizeler yaratır! Kullanıcıdan alıınan terim sayıınına göre sonsuz döngüye giren bu sihirli sayı dizisi,ekranda büyüleyici bir yolculuğa çıkarır.
 
-## 📚 Fibonacci Nedir?
+## 🧩 Özellikler
+-  🔢 Kullanıcıdan kaç terimlik Fibonacci serisi hesaplanacağını sorar.
+- 🌱 İlk iki terimi 0 ve 1 olan Fibonacci serisini üretir.
+- ✨ Kullanıcıdan girdisine göre Fibonacci dizisini ekrana yazdırır.
 
-Fibonacci serisi, her bir sayının kendisinden önceki iki sayının toplamı olduğu bir sayı dizisidir. Doğada sıkça karşılaşılan bu seri, matematiğin en güzel örneklerinden biridir! Serinin ilk birkaç sayısı şöyledir:
+##  🚀 Nasıl Çalışır?
 
+1. **Projeyi bilgisayarınıza klonlayın ya da indirin:**
+    ```bash
+    git clone
+   https://github.com/bushrasc/fibonacci-utgulamasi.git
+    cd fibonacci-uygulamasi
+    ``` 
 
-## 🔧 Ön Gereksinimler
+2. **Projeyi derleyin**:
+   ```bash
+   javac Fibonacci.java
+   ```
+   
+ 3. **Programı çalıştırın**:
+    ```bash
+    java Fibonacci.java
+    ```
+ 
+ 4. **Terim sayısını girin** ve büyüleyici Fibonacci serisinin nasıl oluştuğuna tanıklık edin! Örneğin:
+    ```bash
+     Kaç terimlik Fibonacci serisi istersiniz? 10
+     Fibonacci Serisi: 0 1 1 2 3 5 8 13 21 34 
+ 
+ ##  🧠 Fibonacci Nedir?
 
-- Java Development Kit (JDK) 8 veya üzeri
-- Bir Java IDE (Eclipse, IntelliJ IDEA, vb.) veya terminal
-  
- ## 🛠️ **Kullanım Talimatları**
-## Kurulum
+ Fibonacci Serisi,her sayının kendisinden  önceki iki  sayının toplamı  olduğu, doğadaki  en yaygın matematiksel dizilerden biridir! 🌻**Altın oran** bu dizide gizlidir ve doğanın her köşesinde karşımıza çıkar!🍃
+ 
+ ## 🎉 Örnek Kullanım
+ 
+ - **Girdi**: `Kaç terimil Fibonacci serisi  istersiniz?   5`
+ - **Çıktı**: `Fibonacci Serisi: 0 1 1 2 3`
 
-1. **Bu projeyi bilgisayarınıza klonlayın:**
-    ```sh
-       git clone https://github.com/bushra581/Fibonacci-Series.git
+ ## 🛠️ Katkıda Bulunuma
+Her sihiri sayı dizisine katkı sağlamak istiyorsanız,projeyi **fork** edin ve **pull request** gönderin!
 
-3. **Proje dizinine gidin:**
-      ```bash
-      cd Fibonacci-Series
-
-4. **Projeyi derleyin ve çalıştırın:**
-      ```bash
-      javac Fibonacci.java
-      java Fibonacci
-      
- ## 🔍 Örnek Çıktı
-Programı çalıştırdığınızda, kullanıcıdan terim sayısını girmenizi isteyecek ve örneğin 10 terimlik Fibonacci serisini şöyle gösterecek:
-
-Fibonacci serisi için terim sayısını giriniz;10
-ilk 10 Fibonacci sayısı: 0 1 1 2 3 5 8 13 21 34
-
- ## 💻Kod
-Aşağıdaki Java kodu, Fibonacci serisini hesaplamak için kullanılan basit bir uygulamayı içerir:
-
-import java.util.Scanner;
-
-public class Fibonacci {
-    public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-        System.out.print("Fibonacci serisi için terim sayısını giriniz: ");
-        int n = scanner.nextInt();
-        int[] fib_series = new int[n];
-
-        if (n > 0) fib_series[0] = 0;
-        if (n > 1) fib_series[1] = 1;
-
-        for (int i = 2; i < n; i++) {
-            fib_series[i] = fib_series[i - 1] + fib_series[i - 2];
-        }
-
-        System.out.print("İlk " + n + " Fibonacci sayısı: ");
-        for (int num : fib_series) {
-            System.out.print(num + " ");
-        }
-    }
-}
-
-
- ## 📝Katkıda Bulunuma
-Her türlü katkıya açığız! Pull request'lerinizi bekliyoruz. 🤝
-
- ## 📄Lisans
+ ## 📃Lisans
 Bu proje MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için LICENSE dosyasına bakın.
 
- ## 📬İletişim
+ ## 📬 İletişim
 Eğer herhangi bir sorunuz varsa, lütfen bana şu e-posta adresinden ulaşın:(kurtbusra956@gmail.com)
  
 
