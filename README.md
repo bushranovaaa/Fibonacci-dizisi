@@ -1,6 +1,6 @@
-# 🚀 Fibonacci Dizisi - Java ile Sonsuz Matematik Yolculuğu! 🌟
+# 🚀 Fibonacci Serisi - Java Uygulaması 💻
 
-**Fibonacci** serisini merak ediyor musunuz? Her sayının kendinden önceki iki sayının toplamı olduğu bu eşsiz matematik dizisini **Java** diliyle birlikte keşfetmeye hazır olun! 🔢
+Bu, **Java uygulaması**, matematiksel bir büyüyle **Fibonacci Serisini** oluşturarak sayısal mücizeler yaratır! Kullanıcıdan
 
 ## 📚 Fibonacci Nedir?
 
