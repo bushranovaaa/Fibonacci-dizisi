@@ -17,7 +17,7 @@ Bu projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımlar�
 
 1️⃣ *Projeyi Klonlayın veya İndirin*  
 ```bash
-git clone https://github.com/bushrasc/fibonacci-uygulamasi.git
+git clone https://github.com/bushranovaaa/fibonacci-uygulamasi.git
 cd fibonacci-uygulamasi
 ```  
 
