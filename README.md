@@ -24,7 +24,7 @@ Bu dizinin doğadaki birçok yerde karşımıza çıktığına inanamayacaksın!
 
 # 📌 Bu proje Ne Sunuyor? (Özellikler)
 - **Sana Özel Çıktı:**  🔢  Kaç terim istersen,o kadarını hesaplar! Tamamen senin kontrolünde.
-- ** Tam İsabet Hesaplama**:✅ Fibonacci serisini hatasız, milimetrik hassasiyetle oluşturur. Matematik burada şaka yapmaz!
+- **Tam İsabet Hesaplama**:✅ Fibonacci serisini hatasız, milimetrik hassasiyetle oluşturur. Matematik burada şaka yapmaz!
 - **Kullanımı Çocuk Oyuncağı:** 🎮 Komut satırından **java Fibonacci** yazıp çalıştırmak kadar basit! Hiç kafa karıştırmaz.
 - **Işık Hızında Algoritma:** ⚡️ Özyinelemeli (recursive) yaklaşımların yavaşlığını geride bıraktık! Daha verimli ve hızlı olan yinelemeli (iterative) bir algoritma kullandık ki, büyük sayılarla bile takılmadan çalışsın. Performans bizim için önemli!
 
