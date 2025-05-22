@@ -31,7 +31,7 @@ Bu dizinin doğadaki birçok yerde karşımıza çıktığına inanamayacaksın!
 ## 📥 Hemen Başla! (Kurulum ve Kullanım)
 Bu projeyi kendi bilgisayarında çalıştırmak için ne yapman gerekiyor? İşte basit adımlar:
 
-Senin Projenin Yapısına Göre (Basit Klasör Yapısı):
+## Senin Projenin Yapısına Göre (Basit Klasör Yapısı):
 
 Eğer Fibonacci.java dosyan doğrudan projenin ana dizininde (root) yer alıyorsa, işler çok kolay:
 
