@@ -72,9 +72,9 @@ Bu projeyi daha da güzelleştirmek ister misin? Harika fikirlerin mi var? Hadi 
 
 Bu proje **MIT Lisansı** ile korunmaktadır. Yani özgürce kullanabilir, değiştirebilir ve dağıtabilirsin! Daha fazla bilgi için **LICENSE** dosyasına göz atabilirsin.
 
-## 📬 Bana Ulaş! (İletişim)
+## 📬 **Bana Ulaş! (İletişim)**
 
 Herhangi bir sorun, soru veya sadece merhaba demek istersen, çekinme!
 
-📩 **E-Posta:** kurtbusra956@gmail.com
-🔗 **LinkedIn:** linkedin.com/in/bushra-dev
+* **E-Posta:** [kurtbusra956@gmail.com](mailto:kurtbusra956@gmail.com)
+* **LinkedIn:** [linkedin.com/in/bushra-dev](https://www.linkedin.com/in/bushra-dev)
